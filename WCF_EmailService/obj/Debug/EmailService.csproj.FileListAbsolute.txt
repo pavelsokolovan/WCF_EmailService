@@ -1,0 +1,1 @@
+c:\users\psok\documents\visual studio 2013\Projects\WCF_EmailService\WCF_EmailService\obj\Debug\EmailService.csprojResolveAssemblyReference.cache

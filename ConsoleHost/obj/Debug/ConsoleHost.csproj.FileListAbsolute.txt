@@ -1,0 +1,8 @@
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\bin\Debug\WCF_EmailService.dll
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\bin\Debug\WCF_EmailService.pdb
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\ConsoleHost\obj\Debug\ConsoleHost.pdb

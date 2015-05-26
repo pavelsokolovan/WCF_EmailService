@@ -1,0 +1,5 @@
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\WCF_EmailService\obj\Debug\WCF_EmailService.csprojResolveAssemblyReference.cache
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\WCF_EmailService\bin\Debug\WCF_EmailService.dll
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\WCF_EmailService\bin\Debug\WCF_EmailService.pdb
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\WCF_EmailService\obj\Debug\WCF_EmailService.dll
+C:\Users\psok\documents\visual studio 2013\Projects\WCF_EmailService\WCF_EmailService\obj\Debug\WCF_EmailService.pdb
