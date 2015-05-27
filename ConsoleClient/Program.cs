@@ -10,6 +10,11 @@ namespace ConsoleClient
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter email adress: ");
+            string emailAdress = Console.ReadLine();
+            EmailValidatorClient emailValidatorClient = new EmailValidatorClient();
+            Console.WriteLine(emailValidatorClient.ValiddateAdress(emailAdress));
+            Console.ReadKey();
         }
     }
 }
